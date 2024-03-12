@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\bin\Debug\net6.0\EvTapsirigiArrayC3.exe
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\bin\Debug\net6.0\EvTapsirigiArrayC3.deps.json
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\bin\Debug\net6.0\EvTapsirigiArrayC3.runtimeconfig.json
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\bin\Debug\net6.0\EvTapsirigiArrayC3.dll
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\bin\Debug\net6.0\EvTapsirigiArrayC3.pdb
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.dll
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\refint\EvTapsirigiArrayC3.dll
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.pdb
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\EvTapsirigiArrayC3.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\EvTapsirigiArrayC3\EvTapsirigiArrayC3\obj\Debug\net6.0\ref\EvTapsirigiArrayC3.dll
